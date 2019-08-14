@@ -3,7 +3,8 @@
 ### Exercise 1
 Create a Movie class. Make all the following attributes: movieName, rating, and yearReleased. Create three different methods to change each attribute. Outside of the class create two different Movie objects, assign values to each object, and print them to the console.
 
-### Exercise 2
+### Exercise 2 
+kenn said ignore second question
 Create a class Product that represents a product sold online. A product has a price, quantity and name.
 
 The class should have:
